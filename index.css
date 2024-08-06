@@ -1,0 +1,417 @@
+.lets-ride {
+  margin: 0;
+  letter-spacing: 0.17em;
+  white-space: pre-wrap;
+}
+.future1 {
+  letter-spacing: 0.07em;
+}
+.span {
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.38em;
+  font-family: var(--font-itim);
+}
+.future {
+  margin: 0;
+  font-size: 83px;
+  font-family: var(--font-krona-one);
+}
+.lets-ride-the-container {
+  position: absolute;
+  top: 230px;
+  left: 60px;
+  display: inline-block;
+  width: 517px;
+  height: 156px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-michroma);
+}
+.simple-and-sleek {
+  margin: 0;
+}
+.ev-b,
+.simple-and-sleek-container {
+  position: absolute;
+  top: 469px;
+  left: 60px;
+  letter-spacing: 1px;
+  display: inline-block;
+  width: 307px;
+  height: 116px;
+}
+.ev-b {
+  margin: 0;
+  top: 133px;
+  left: 798px;
+  font-size: 411px;
+  letter-spacing: -0.01em;
+  line-height: 321px;
+  font-weight: 400;
+  font-family: var(--font-yanone-kaffeesatz);
+  color: #fff;
+  width: 841px;
+  height: 321px;
+  text-shadow: 0 4px 58.7px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.ev-bike-web-child,
+.ev-bike-web-item {
+  position: absolute;
+  left: 1392px;
+  width: 120px;
+  height: 491px;
+}
+.ev-bike-web-child {
+  top: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #9ae0d3, #35a7a0);
+  display: none;
+}
+.ev-bike-web-item {
+  top: 491px;
+  background: linear-gradient(176.7deg, #89c8dd, #0e6684);
+  z-index: 1;
+}
+.wheel {
+  position: absolute;
+  top: 454.79px;
+  left: 118px;
+  filter: blur(45.2px);
+  border-radius: 50%;
+  background: radial-gradient(50% 50%at 50% 50%, #262222 50%, #262222 81.5%);
+  width: 665.2px;
+  height: 47px;
+  transform: rotate(-5.3deg);
+  transform-origin: 0 0;
+}
+.version-0-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 272.5px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.bike {
+  position: absolute;
+  top: 272px;
+  left: 421px;
+  width: 885px;
+  height: 545px;
+  z-index: 2;
+}
+.bg-effects-icon,
+.logo-icon {
+  position: absolute;
+  top: -5px;
+  left: -126px;
+  width: 302px;
+  height: 722px;
+  z-index: 1;
+}
+.logo-icon {
+  top: 2px;
+  left: 18px;
+  width: 169.2px;
+  height: 153px;
+  object-fit: contain;
+  z-index: 2;
+}
+.bg-effects-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 187.2px;
+  height: 717px;
+}
+.header-icons,
+.header-icons1 {
+  position: absolute;
+  top: 896px;
+  left: 577px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 22px;
+  height: 22px;
+  mix-blend-mode: linear-burn;
+}
+.header-icons1 {
+  left: 637px;
+  z-index: 1;
+}
+.icon-right,
+.icon-right1 {
+  position: absolute;
+  top: 892px;
+  width: 84px;
+  height: 58px;
+}
+.icon-right {
+  left: 1165px;
+  z-index: 1;
+}
+.icon-right1 {
+  left: 193px;
+  object-fit: contain;
+}
+.features-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 15px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: linear-burn;
+}
+.kmhr {
+  margin: 0;
+  font-family: var(--font-michroma);
+}
+.speed {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+.kmhr-speed {
+  width: 151px;
+  position: relative;
+  letter-spacing: 0.17em;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.battery-range {
+  margin: 0;
+  font-weight: 600;
+}
+.km-battery-range-container {
+  align-self: stretch;
+  height: 65px;
+  position: relative;
+  letter-spacing: 0.17em;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.range {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 16px 0 0;
+  box-sizing: border-box;
+  min-width: 108px;
+}
+.charging-time {
+  margin: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.hr-charging-time-container {
+  width: 150px;
+  position: relative;
+  letter-spacing: 0.17em;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+  font-family: var(--font-michroma);
+}
+.features {
+  width: 603px;
+  backdrop-filter: blur(9.4px);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 25px 19px 22px 49px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 34px;
+  max-width: 100%;
+  z-index: 3;
+}
+.dot {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(137, 200, 221, 0) 9.9%,
+    #caeaf4
+  );
+  width: 100%;
+  height: 100%;
+}
+.dot1,
+.dots {
+  background-color: var(--color-gainsboro);
+  mix-blend-mode: linear-burn;
+  z-index: 1;
+}
+.dot1 {
+  position: absolute;
+  top: 1338px;
+  left: 35px;
+  box-shadow: 0 0 24.6px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  width: 36px;
+  height: 34px;
+}
+.dots {
+  top: 1344px;
+  left: 102px;
+  width: 22px;
+  height: 22px;
+}
+.dots,
+.dots1,
+.plus-circle {
+  position: absolute;
+  border-radius: 50%;
+}
+.dots1 {
+  top: 1344px;
+  left: 162px;
+  background-color: var(--color-gainsboro);
+  width: 22px;
+  height: 22px;
+  mix-blend-mode: linear-burn;
+  z-index: 1;
+}
+.plus-circle {
+  top: 0;
+  left: 0;
+  background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(69, 194, 186, 0.62),
+      #9ae0d3
+    ),
+    #d9d9d9;
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+}
+.plus-math-icon {
+  position: absolute;
+  top: 20px;
+  left: 18px;
+  border-radius: 56.5px;
+  width: 38px;
+  height: 34px;
+  object-fit: cover;
+  z-index: 5;
+}
+.divider-news-part {
+  position: absolute;
+  top: 1302px;
+  left: 700px;
+  width: 74px;
+  height: 74px;
+}
+.controls {
+  width: 1361px;
+  height: 1386px;
+  position: absolute;
+  margin: 0 !important;
+  top: -448px;
+  right: -504px;
+}
+.next {
+  position: relative;
+  letter-spacing: 0.2em;
+  display: inline-block;
+  min-width: 60.7px;
+  z-index: 2;
+}
+.features-parent,
+.next-button {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.next-button {
+  width: 603px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 140px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-itim);
+}
+.features-parent {
+  position: absolute;
+  top: 0;
+  left: 655px;
+  width: 857px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 756px var(--padding-xl) 3px 24px;
+  gap: 36px;
+  font-size: var(--font-size-mini);
+}
+.previous {
+  position: absolute;
+  top: 907px;
+  left: 269px;
+  letter-spacing: 0.13em;
+  font-family: var(--font-itim);
+  display: inline-block;
+  min-width: 114px;
+  z-index: 1;
+}
+.ev-bike-web {
+  width: 1512px;
+  height: 982px;
+  border-radius: 30px;
+  background: radial-gradient(50% 50%at 50% 50%, #cce4eb, #9cc1cd);
+  max-width: 100%;
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 750px) {
+  .lets-ride-the-container {
+    font-size: 29px;
+  }
+  .ev-b {
+    font-size: 164px;
+    line-height: 193px;
+  }
+}
+@media screen and (max-width: 675px) {
+  .ev-bike-web {
+    height: auto;
+    min-height: 982;
+  }
+}
+@media screen and (max-width: 450px) {
+  .lets-ride-the-container {
+    font-size: 22px;
+  }
+  .simple-and-sleek-container {
+    font-size: var(--font-size-lgi);
+  }
+  .ev-b {
+    font-size: 103px;
+    line-height: 128px;
+  }
+  .next,
+  .previous {
+    font-size: var(--font-size-lgi);
+  }
+}

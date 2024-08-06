@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-itim: Itim;
+  --font-inter: Inter;
+  --font-michroma: Michroma;
+  --font-yanone-kaffeesatz: "Yanone Kaffeesatz";
+  --font-krona-one: "Krona One";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-mini: 15px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+
+  /* Paddings */
+  --padding-xl: 20px;
+}
